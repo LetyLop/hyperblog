@@ -2,8 +2,10 @@ Hola, esta es una prueba.
 
 Usando GIT.
 
-Veamos como funciona
+Veamos como funciona git con mas comandos.
 
 Suerte !!!!
 
 estoy haciendo cambios
+
+:)
