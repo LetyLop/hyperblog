@@ -2,12 +2,6 @@ Hola, esta es una prueba.
 
 Usando GIT.
 
-Veamos como funciona git con mas comandos.
+Veamos como funciona
 
-Suerte !!!!
-
-estoy haciendo cambios
-
-:), :), mas informacion
-
-historia de mi vida y obra maestra.
+Mañana nos esfocaremos en su vida laboral.
