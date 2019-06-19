@@ -11,11 +11,7 @@ body
 
 #cabecera
 {
-<<<<<<< HEAD
-    background: #37488b url("../Imagenes/gatos-kawaii-3.jpg") no-repeat center center cover;
-=======
     background: #37488b;
->>>>>>> footer
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
