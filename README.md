@@ -9,6 +9,7 @@ Un blog increíble para el curso de Giy y GitHub de Platzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi Team
-*Incluye ejemplos de Windows, Linux y Mac
+* Incluye ejemplos de Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y con un amable recordatorio: **Este readme.md es un chiste**.Diseñado para el ejemplo.Si llegas aca NO TE LO TOMES ENSERIO y mejor ve a Platzi.
